@@ -1,0 +1,4 @@
+# Created at 2024-02-01T18:20:55.478
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Sujin\StudyMaterials\Job\Spring\EclipseWorkspace\Amala\GroceryApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
